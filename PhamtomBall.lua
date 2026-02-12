@@ -52,7 +52,7 @@ local Config = {
     enableAuraVisual = true,
     manualPingOffset = 0.045,
     clashSpamThreshold = 0.95, 
-    clashBurstRate = 10,
+    clashBurstRate = 15,
     processResetInterval = 0.4
 }
 
